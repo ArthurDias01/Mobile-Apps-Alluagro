@@ -37,19 +37,22 @@ This mobile app (iOS and Android) - allowed users to do the full range of action
 ## Preview
 
 <div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_1.jpeg" alt="dash_1"/>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_2.jpeg" alt="dash_2"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_1.png" alt="mobile_1"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_2.png" alt="mobile_2"/>
 </div>
+
 <div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_3.jpeg" alt="dash_3"/>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_4.jpeg" alt="dash_4"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_3.png" alt="mobile_3"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_4.png" alt="mobile_4"/>
 </div>
+
 <div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_5.jpeg" alt="dash_5"/>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_6.jpeg" alt="dash_6"/>
-  </div>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/mobile_5.png" alt="mobile_5"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/ios_1.png" alt="mobile_6"/>
+</div>
+
 <div class="row">
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_7.jpg" alt="dash_7"/>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_8.jpeg" alt="dash_8"/>
-  </div>
-  <img width="450" src="https://github.com/ArthurDias01/dashboard_alluagro/blob/main/dash_9.jpeg" alt="dash_9"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/ios_2.png" alt="mobile_7"/>
+  <img width="450" src="https://github.com/ArthurDias01/Mobile-Apps-Alluagro/blob/main/ios_3.png" alt="mobile_8"/>
+</div>
+
